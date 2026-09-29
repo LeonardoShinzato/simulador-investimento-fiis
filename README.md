@@ -1,10 +1,10 @@
-# 📊 Simulador de Investimento em FIIs
+# Simulador de Investimento em FIIs
 
 Um simulador financeiro desenvolvido para ajudar investidores a planejarem seus aportes mensais em Fundos Imobiliários (FIIs)., projetando o crescimento do patrimônio e a evolução dos dividendos ao longo do tempo.
 
 ---
 
-## 💡 Funcionalidades do Projeto
+## Funcionalidades do Projeto
 
 *   **Configuração de Aportes:** Definição de salário, taxa de rendimento estimada e valor do investimento mensal.
 *   **Projeção de Longo Prazo:** Cálculo automático de patrimônio acumulado e renda passiva de dividendos de 2 a 30 anos.
@@ -12,7 +12,7 @@ Um simulador financeiro desenvolvido para ajudar investidores a planejarem seus 
 
 ---
 
-## 📈 Cenários Simulados (Exemplo Padrão)
+## Cenários Simulados (Exemplo Padrão)
 
 Com um aporte mensal de **R$ 1.500,00** e taxa de rendimento de **1,079% ao mês**, o simulador projeta os seguintes resultados:
 
@@ -24,12 +24,12 @@ Com um aporte mensal de **R$ 1.500,00** e taxa de rendimento de **1,079% ao mês
 
 ---
 
-## 🛠️ Tecnologias e Ferramentas
+## Tecnologias e Ferramentas
 *   **Microsoft Excel** (Fórmulas de juros compostos e matrizes de alocação por perfil).
 
 ---
 
-## ⚙️ Como utilizar o projeto
+## Como utilizar o projeto
 
 1. Baixe o arquivo da planilha disponível neste repositório.
 2. Abra no Excel.
@@ -37,5 +37,5 @@ Com um aporte mensal de **R$ 1.500,00** e taxa de rendimento de **1,079% ao mês
 
 ---
 
-## 👤 Autor
+## Autor
 *   Leonardo Hiey Shinzato - (https://www.linkedin.com/in/leonardo-shinzato-62a041157/)
