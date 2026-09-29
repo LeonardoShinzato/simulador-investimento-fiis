@@ -33,7 +33,7 @@ Com um aporte mensal de **R$ 1.500,00** e taxa de rendimento de **1,079% ao mês
 
 1. Baixe o arquivo da planilha disponível neste repositório.
 2. Abra no Excel.
-3. Altere os campos da seção **CONFIGURAÇÕES, investimento mensal e perfil** para ver os cálculos!
+3. Altere os campos da seção **CONFIGURAÇÕES, INVESTIMENTO MENSAL e PERFIL** para ver os cálculos!
 
 ---
 
